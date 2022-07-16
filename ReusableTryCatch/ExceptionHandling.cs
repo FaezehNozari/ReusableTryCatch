@@ -18,6 +18,7 @@ namespace ReusableTryCatch
             {
                 Console.WriteLine(exp.Message);
             }
+
         }
     }
 }
